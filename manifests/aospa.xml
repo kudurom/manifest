@@ -201,9 +201,8 @@
   <remove-project name="platform/tools/external/gradle" />
   <project path="tools/external/gradle" name="platform/tools/external/gradle" remote="aosp" clone-depth="1" />
 
-  <!-- TreskMod -->
+  <!-- KuduPixel -->
   <project path="vendor/pixelstyle" name="vendor_pixelstyle" remote="mtresk-gitlab" revision="android-10" />
-  <project path="vendor/gapps" name="vendor_gapps" remote="mtresk-gitlab" revision="android-10" clone-depth="1" />
-  <project path="packages/apps/PixelLiveWallpaper" name="packages_apps_PixelLiveWallpaper" remote="pixel-gitlab" revision="ten" />
+  <project path="vendor/pixelgapps" name="vendor_pixelgapps" remote="kudurom-gitlab" revision="android-10" clone-depth="1" />
 
 </manifest>
