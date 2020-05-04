@@ -38,7 +38,7 @@
            fetch="https://gitlab.com/mTresk" />
 
     <remote  name="kudurom"
-           fetch="https://kudurom@gitlab.com/kudurom/android_vendor_pixelgapps.git" />
+           fetch="https://gitlab.com/kudurom/android_vendor_pixelgapps.git" />
 
   <remote  name="pixel-gitlab"
            fetch="https://gitlab.com/PixelExperience" />
