@@ -204,9 +204,5 @@
   <!-- KuduPixel -->
   <project path="vendor/pixelstyle" name="vendor_pixelstyle" remote="mtresk-gitlab" revision="android-10" />
   <project path="vendor/pixelgapps" name="vendor_pixelgapps" remote="kudurom-gitlab" revision="android-10" />
-  <project name="kudurom/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="android-10" />
-  <project name="kudurom/android_device_oneplus_oneplus7pro" path="device/oneplus/oneplus7pro" remote="github" revision="android-10" />
-  <project name="kudurom/android_device_oneplus_sm8150-common" path="device/oneplus/sm8150-common" remote="github" revision="android-10" />
-  <project name="kudurom/android_kernel_oneplus_sm8150" path="kernel/oneplus/sm8150" remote="github" revision="android-10" />
-  
+
 </manifest>
