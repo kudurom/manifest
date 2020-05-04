@@ -2,7 +2,7 @@
 <manifest>
 
   <!-- Manifest -->
-  <project path="manifest" name="manifest" remote="tresk" revision="quartz" />
+  <project path="manifest" name="manifest" remote="kudurom" revision="quartz" />
 
   <!-- Build repositories -->
   <remove-project name="platform/build" />
