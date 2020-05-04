@@ -27,17 +27,14 @@
 
   <remote  name="github-ssh"
            fetch="ssh://git@github.com" />
-
-  <remote name="gitlab"
-           fetch="https://gitlab.com/kudurom/android_vendor_pixelgapps/>
-
+  
   <remote name="tresk"
            fetch="https://github.com/paranoidtresk"/>
 
   <remote  name="mtresk-gitlab"
            fetch="https://gitlab.com/mTresk" />
 
-   <remote  name="android_vendor_pixelgapps"
+   <remote  name="gitlab"
            fetch="ssh://kudurom@gitlab.com/kudurom/android_vendor_pixelgapps.git" />
 
   <remote  name="pixel-gitlab"
