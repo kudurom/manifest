@@ -33,6 +33,9 @@
   
   <remote name="tresk"
            fetch="https://github.com/paranoidtresk"/>
+  
+  <remote name="kudurom"
+           fetch="https://github.com/kudurom"/>
 
   <remote  name="mtresk-gitlab"
            fetch="https://gitlab.com/mTresk" />
