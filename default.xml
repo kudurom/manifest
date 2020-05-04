@@ -29,7 +29,7 @@
            fetch="ssh://git@github.com" />
 
   <remote name="gitlab"
-           fetch="https://gitlab.com"/>
+           fetch="https://kudurom@gitlab.com/kudurom/android_vendor_pixelgapps.git"/>
 
   <remote name="tresk"
            fetch="https://github.com/paranoidtresk"/>
