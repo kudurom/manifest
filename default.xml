@@ -25,6 +25,9 @@
   <remote  name="github"
            fetch="https://github.com" />
 
+    <remote  name="gitlab"
+           fetch="https://gitlab.com" />
+
   <remote  name="github-ssh"
            fetch="ssh://git@github.com" />
   
@@ -34,7 +37,7 @@
   <remote  name="mtresk-gitlab"
            fetch="https://gitlab.com/mTresk" />
 
-   <remote  name="kudurom"
+  <remote  name="kudurom"
            fetch="https://gitlab.com/kudurom" />
 
   <remote  name="pixel-gitlab"
