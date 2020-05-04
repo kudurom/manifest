@@ -203,5 +203,5 @@
 
   <!-- KuduPixel -->
   <project path="vendor/pixelstyle" name="vendor_pixelstyle" remote="mtresk-gitlab" revision="android-10" />
-  <project name="android/android_vendor_pixelgapps " path="vendor/pixelgapps" remote="gitlab" revision="android-10"/>
+  <project path="vendor/pixelgapps" name="android_vendor_pixelgapps" remote="gitlab" revision="android-10"/>
 </manifest>
