@@ -876,6 +876,5 @@
 
   <!-- Paranoid Android additions -->
   <include name="manifests/aospa.xml"/>
-  <include name="manifests/oneplus7pro.xml"/>
 
 </manifest>
