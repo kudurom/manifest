@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="aosp"
-           revision="refs/tags/android-10.0.0_r33"
+           revision="refs/tags/android-10.0.0_r36"
            fetch="https://android.googlesource.com"
            review="android-review.googlesource.com" />
 
@@ -25,33 +25,18 @@
   <remote  name="github"
            fetch="https://github.com" />
 
-    <remote  name="gitlab"
-           fetch="https://gitlab.com" />
-
   <remote  name="github-ssh"
            fetch="ssh://git@github.com" />
-  
-  <remote name="tresk"
-           fetch="https://github.com/paranoidtresk"/>
-  
-  <remote name="kudurom"
-           fetch="https://github.com/kudurom"/>
 
-  <remote  name="mtresk-gitlab"
-           fetch="https://gitlab.com/mTresk" />
-
-  <remote  name="kudurom-gitlab"
-           fetch="https://gitlab.com/kudurom" />
-
-  <remote  name="pixel-gitlab"
-           fetch="https://gitlab.com/PixelExperience" />
+  <remote name="gitlab"
+           fetch="https://gitlab.com"/>
 
   <remote  name="caf_bluetooth"
            fetch="git://codeaurora.org/quic/la"
            review="codeaurora.org"
-           revision="refs/tags/LA.UM.8.13.r1-08000-SAIPAN.0" />
+           revision="refs/tags/LA.UM.8.1.r1-14900-sm8150.0" />
 
-  <default revision="refs/tags/LA.UM.8.4.1.r1-01700-8x98.0"
+  <default revision="refs/tags/LA.UM.8.1.r1-14900-sm8150.0"
            remote="caf"
            sync-j="4"
            sync-c="true"/>
