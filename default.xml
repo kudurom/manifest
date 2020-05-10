@@ -1,3 +1,4 @@
+  
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
@@ -30,6 +31,15 @@
 
   <remote name="gitlab"
            fetch="https://gitlab.com"/>
+
+  <remote name="tresk"
+           fetch="https://github.com/paranoidtresk"/>
+
+  <remote  name="mtresk-gitlab"
+           fetch="https://gitlab.com/mTresk" />
+
+  <remote  name="pixel-gitlab"
+           fetch="https://gitlab.com/PixelExperience" />
 
   <remote  name="caf_bluetooth"
            fetch="git://codeaurora.org/quic/la"
