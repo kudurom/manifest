@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <remote  name="aosp"
+           fetch="https://android.googlesource.com/"
+           review="https://android-review.googlesource.com/" />
+  <default revision="refs/tags/android-10.0.0_r35"
+           remote="aosp"
+           sync-j="4" />
+
+
   <remote  name="pixelrom"
            fetch="ssh://git@gitlab.com/Pixel3ROM"
            revision="android10-qpr2-release" />
