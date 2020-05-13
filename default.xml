@@ -9,14 +9,10 @@
   <project path="external/exfat" name="platform/external/exfat" groups="pdk" remote="pixelrom" />
   <project path="external/ntfs-3g" name="platform/external/ntfs-3g" groups="pdk" remote="pixelrom" />
 
-  <remove-project name="platform/frameworks/base" />
   <project path="frameworks/base" name="platform/frameworks/base" groups="pdk-cw-fs,pdk-fs" remote="pixelrom" />
-  <remove-project name="platform/frameworks/av" />
   <project path="frameworks/av" name="platform/frameworks/av" groups="pdk" remote="pixelrom" />
 
-  <remove-project name="platform/system/core" />
   <project path="system/core" name="platform/system/core" groups="pdk" remote="pixelrom" />
-  <remove-project name="platform/system/vold" />
   <project path="system/vold" name="platform/system/vold" groups="pdk" remote="pixelrom" />
 
   <project path="vendor/google" name="platform/vendor/google" groups="pdk,vendor" remote="pixelrom" />
